@@ -1,3 +1,4 @@
+from transformers import pipeline
 import os
 import json
 import re
@@ -7,7 +8,7 @@ import tiktoken
 import pydot
 import streamlit as st
 from pycparser import c_parser, c_lexer
-from transformers import pipeline
+
 
 # ------------------------------------------------------------
 # Redirect Hugging Face cache to D drive
