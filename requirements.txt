@@ -5,6 +5,7 @@ pycparser
 transformers
 pandas
 numpy
+torch
 requests
 altair
 graphviz
