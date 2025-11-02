@@ -1,0 +1,9 @@
+streamlit
+tiktoken
+pydot
+pycparser
+transformers
+pandas
+numpy
+requests
+altair
